@@ -779,5 +779,5 @@ process has exited.
 [spawn]: #child_process_child_process_spawn_command_args_options
 [`child_process.exec()`]: #child_process_child_process_exec_command_options_callback
 [`child_process.spawn()`]: #child_process_child_process_spawn_command_args_options
-[`child.send(message, [sendHandle])`]: #child_process_child_send_message_sendhandle_callback
+[`child.send()`]: #child_process_child_send_message_sendhandle_callback
 [`child_process.spawnSync()`]: #child_process_child_process_spawnsync_command_args_options
